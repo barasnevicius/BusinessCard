@@ -1,1 +1,1 @@
-A simple HTML/JS/CSS starter template
+Um simples agregador de conteúdo para HTML
