@@ -1,7 +1,7 @@
 <h1 align="center"> Cartão de Visitas Online </h1>
 
 <p align="center">
-  Agregador de links profissionais. <br/>
+  Agregador de links profissionais desenvolvido com IDX da Google. <br/>
 </p>
 
 <p align="center">
@@ -28,6 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 - Figma
+- IDX: https://idx.google.com/
 
 ## 💻 Projeto
 
