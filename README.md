@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O cartão de visitas é um agregador de links cartão de visitas online.
+O cartão de visitas é um agregador de links online similar ao DevLinks da Rocketseat.
 
 - [Acesse o projeto finalizado](https://barasnevicius.github.io/agregador)
 
