@@ -1,7 +1,7 @@
 <h1 align="center"> Cartão de Visitas Online </h1>
 
 <p align="center">
-  Agregador de links pessoais e profissionais. <br/>
+  Agregador de links profissionais. <br/>
 </p>
 
 <p align="center">
